@@ -461,6 +461,10 @@
   background-color: var(--containers-bg-color);
 }
 
+.save_button:focus {
+  outline: none;
+}
+
 .save_button_elements-container {
   display: flex;
   flex-direction: row;
