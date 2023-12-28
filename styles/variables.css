@@ -1,1 +1,26 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --main-font: "Inter";
+  --accent-font: "PressStart2P";
+  --title-weight: 700;
+  --paragraphes-weight: 400;
+  --font-size: 18px;
+  --main-color: #000000;
+  --for-text-in-button-color: #fff;
+  --containers-bg-color: #fff;
+  --bg-color: #d3d3d3;
+  --bg-color2: #e7e7e7;
+  --bg-color3: #1a1a1a;
+  --filling-heart: #ff0000;
+  --circuit_heart: #000000;
+  --main-heading-font-size-height: clamp(
+    3.0625rem,
+    2.7104rem + 1.5023vw,
+    4.0625rem
+  );
+  --second-heading-font-size-height: clamp(
+    0.875rem,
+    0.6769rem + 0.8451vw,
+    1.4375rem
+  );
+}
