@@ -18,7 +18,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   font-family: var(--main-font), sans-serif;
-  font-variation-settings: 'wght' var(--paragraphes-weight);
+  font-variation-settings: "wght" var(--paragraphes-weight);
   color: var(--main-color);
   background-image: repeating-linear-gradient(
       to right,
@@ -81,9 +81,6 @@
   display: flex;
   flex-direction: column;
   gap: 14px;
-}
-
-.theme-menu__item {
 }
 
 .theme-menu__button {
