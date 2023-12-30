@@ -14,31 +14,31 @@
 */
 
 @keyframes arrow {
-    from {
-      translate: 0px 0;
-    }
-  
-    to {
-      translate: 4px 0;
-    }
+  from {
+    translate: 0px 0;
+  }
+
+  to {
+    translate: 4px 0;
+  }
 }
 
 @keyframes heart {
-    from {
-      transform: scale(1);
-    }
-  
-    to {
-      transform: scale(1.5);
-    }
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.5);
+  }
 }
 
 @keyframes dots {
-    from {
-      opacity: 0%;
-    }
-  
-    to {
-      opacity: 100%;
-    }
+  from {
+    opacity: 0%;
+  }
+
+  to {
+    opacity: 100%;
+  }
 }
